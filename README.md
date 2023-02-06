@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @arpitamoharir
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning web development technologies
-- 💞️ I’m looking for web development internship
 - 📫 Reach me here- https://www.linkedin.com/in/arpita-moharir-443235213/
 
 <!---
